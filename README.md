@@ -15,7 +15,7 @@ Features (watch video)
 - Pizo speaker for audible button presses
 - Components are inexpensive and easy to get
 - PCB is a small simple 2 layer board I was able to assemble with a hot plate and some solder paste (I have a few spares if interested)
-- Mosfet H-brigde to spin lock motor forwards and backwards
+- Mosfet H-bridge to spin lock motor forwards and backwards
 
 https://github.com/james-carl-git/door-lock-keypad-controller/assets/78581339/344f8aa0-f60f-4c66-a90a-e0d3cf9ee638
 
@@ -29,7 +29,7 @@ Notes:
 - The combo length is set to 4 in the code but this can be changed to a value up to 16
 - PCB designed with EAGLE
 
-Below are pictures of my door lock and orginal PCB so you can see if maybe this design would work for you. It could also be used for a custom lock project.
+Below are pictures of my door lock and original PCB so you can see if maybe this design would work for you. It could also be used for a custom lock project.
 
 ![Screenshot 2024-01-02 000638](https://github.com/james-carl-git/door-lock-keypad-controller/assets/78581339/305fa767-c429-4cf2-8487-2438b8a2d8ac)
 
