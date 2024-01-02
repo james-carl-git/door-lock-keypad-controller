@@ -27,6 +27,7 @@ Notes:
 - I used Energia to program the MSP430, you'll want to put the MSP430 in DIP socket so you can remove it to program it. The PCB does not break out the programing pins
 - You're going to want to make sure the voltage regulator(3.3v) has a low quiescent current if you expect the batteries to last
 - The combo length is set to 4 in the code but this can be changed to a value up to 16
+- PCB designed with EAGLE
 
 Below are pictures of my door lock and orginal PCB so you can see if maybe this design would work for you. It could also be used for a custom lock project.
 
