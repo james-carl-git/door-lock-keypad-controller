@@ -14,7 +14,7 @@ Features (watch video)
 - Combo stored in non-volatile memory so no need to re-program when swapping batteries
 - Pizo speaker for audible button presses
 - Components are inexpensive and easy to get
-- PCB is a small simple 2 layer board I was able to assemble with a hot plate and some solder paste
+- PCB is a small simple 2 layer board I was able to assemble with a hot plate and some solder paste (I have a few spares if interested)
 - Mosfet H-brigde to spin lock motor forwards and backwards
 
 https://github.com/james-carl-git/door-lock-keypad-controller/assets/78581339/344f8aa0-f60f-4c66-a90a-e0d3cf9ee638
